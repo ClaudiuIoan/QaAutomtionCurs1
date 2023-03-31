@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f05ea9e-fd83-4732-8a0c-6bc610950651" name="Changes" comment="" />
+    <list default="true" id="3f05ea9e-fd83-4732-8a0c-6bc610950651" name="Changes" comment="Salut ce faci" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2NmCz14qneyuQVZ3MAJqy1DdgWS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,5 +38,20 @@
       <updated>1680260131182</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Salut ce faci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salut ce faci" />
   </component>
 </project>
